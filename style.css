@@ -40,3 +40,25 @@ img{
     height: 60px;
   	border-radius: 50px;
 }
+@media only screen and (max-width: 1000px){
+	h1{
+		font-size: 50px;
+	}
+	li{
+		font-size: 40px;
+		padding: 20px;
+	}
+	button{
+		width: 150px;
+		height: 75px;
+		font-size: 40px;
+		border-radius: 35px;
+	}
+	img{
+		width: 100px;
+		height: 100px;
+	}
+	footer{
+		font-size: 30px;
+	}
+}
