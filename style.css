@@ -1,0 +1,42 @@
+*{
+	margin: 10px;
+	font-family: timesnewroman;
+}
+body{
+	background-color: pink;
+}
+h1{
+	text-align: center;
+	color: red;
+}
+li{
+	font-weight: bold;
+	list-style: none;
+	display: flex;
+}
+button{
+	width: 60px;
+	height: 25px;
+	border-radius: 25px;
+	font-weight: bold;
+	border-style: none;
+	box-shadow: 2px 2px 5px black;
+	color: white;
+    background: linear-gradient(
+      to bottom left,
+        indigo,
+        magenta
+    );
+}
+footer{
+	color: black;
+	width: 100%;
+	font-weight: bold;
+  	text-align: center;
+  	background-color: gray;
+}
+img{
+  	width: 60px;
+    height: 60px;
+  	border-radius: 50px;
+}
